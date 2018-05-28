@@ -1,1 +1,1 @@
-# tfc-minimal-wp-template
+# minimal-wp-template
